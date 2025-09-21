@@ -1,0 +1,61 @@
+.story {
+    width: 100%;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+
+    .story-center {
+        width: 88%;
+        height: 100%;
+
+
+    }
+
+    .swiper {
+        width: 100%;
+        height: 100%;
+    }
+
+    .swiper-slide {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+
+        .swiper-slider-item {
+            width: 100%;
+            height: 100%;
+
+            img {
+                width: 64px;
+                height: 64px;
+                border-radius: 50%;
+                display: block;
+                margin: 20px auto;
+                outline: 3px solid purple;
+                outline-offset: 3px;
+                display: block;
+                object-fit: cover;
+
+
+            }
+
+            P {
+                font-size: 12px;
+                width: 80px;
+                margin: 5px auto;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                /* box-orient: vertical; */
+                -webkit-line-clamp: 2;
+                line-clamp: 2;
+                overflow: hidden;
+
+            }
+        }
+    }
+
+
+
+}
