@@ -32,4 +32,8 @@
 
   }
 
+  .swiper-navigation-icon {
+    width: 10px;
+    color: #2b2b22;
+  }
 }
