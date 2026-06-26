@@ -1,24 +1,190 @@
 <!doctype html>
-<html>
+<html dir="rtl">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Digikala</title>
-  <script type="module" crossorigin src="/Digikala/assets/index-CHQIsS9o.js"></script>
-  <link rel="stylesheet" crossorigin href="/Digikala/assets/index-rXrGj82v.css">
+  <script type="module" crossorigin src="/Digikala/assets/index-BMGRkj1T.js"></script>
+  <link rel="stylesheet" crossorigin href="/Digikala/assets/index-yGM3thLv.css">
 </head>
 
 <body>
   <!-- #region wraper-->
-  <div class="wraper">
+  <div class="wraper font-vazir">
     <!-- #region header-banner-->
-    <div class="w-full h-15 adsBanner">
-      <!-- #endregion header-banner-->
+    <div class="w-full h-10 lg:h-15 adsBanner lg:sticky top-0">
     </div>
-    <!-- #endregion  wraper-->
+    <!-- #endregion header-banner-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region desktop header-menu-->
+    <div class="px-4 [box-shadow:0_2px_3px_-2px_gray] hidden lg:flex flex-col sticky top-15">
+      <!-- #region logo-search-login-basket -->
+      <div class="header-search-login w-full h-17 ">
+        <div class="w-full h-full py-3 flex justify-between">
+          <!-- #region logo-search-->
+          <div class="logo-searchBox flex items-center gap-5">
+            <!--#region logo -->
+            <img class="logo w-48.75 h-7.5" src="/Digikala/assets/logo-BK_yGaR6.svg" alt="">
+            <!-- #endregion logo-->
+            <!-- #region search box-->
+            <div class="searchBox w-125 h-11 bg-[#ECEDEF] rounded-3xl">
+              <div class="w-full h-full px-4 flex items-center gap-2 group">
+                <svg style="width: 24px; height: 24px; fill:#81858d;" width="24" height="24">
+                  <defs>
+                    <symbol id="searchSearch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                      <path fill-rule="evenodd"
+                        d="M10.5 18a7.5 7.5 0 115.973-2.963l4.369 4.246-1.394 1.434-4.387-4.263A7.467 7.467 0 0110.5 18zm5.5-7.5a5.5 5.5 0 11-11 0 5.5 5.5 0 0111 0z"
+                        clip-rule="evenodd"></path>
+                    </symbol>
+                  </defs>
+                  <use xlink:href="#searchSearch"></use>
+                </svg>
+                <input
+                  class="searchInput w-80 h-10 pb-1 px-2 outline-none placeholder:text-xs font-vazir placeholder:text-[#9296a0] text-sm text-[#81858d] peer"
+                  type="text" autocomplete="off" placeholder="جستجو">
+                <div
+                  class="bg-[#F2F3F5] h-6.5 rounded-lg text-[#616161] text-xs font-mono items-center px-2 hidden group-hover:flex ">
+                  Ctrl+K</div>
+              </div>
+            </div>
+
+            <!-- #endregion search box-->
+          </div>
+          <!-- #endregion logo search-->
+          <!-- #region logon-basket-->
+          <div class="w-62.5 h-11 flex items-center justify-center">
+            <!-- #region notif-->
+            <div class="w-10 h-10 flex items-center ml-2">
+              <img class="w-8 h-8 opacity-80" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M6.31317%2012.463C6.20006%209.29213%208.60976%206.6252%2011.701%206.5C14.7923%206.6252%2017.202%209.29213%2017.0889%2012.463C17.0889%2013.78%2018.4841%2015.063%2018.525%2016.383C18.525%2016.4017%2018.525%2016.4203%2018.525%2016.439C18.5552%2017.2847%2017.9124%2017.9959%2017.0879%2018.029H13.9757C13.9786%2018.677%2013.7404%2019.3018%2013.3098%2019.776C12.8957%2020.2372%2012.3123%2020.4996%2011.701%2020.4996C11.0897%2020.4996%2010.5064%2020.2372%2010.0923%2019.776C9.66161%2019.3018%209.42346%2018.677%209.42635%2018.029H6.31317C5.48869%2017.9959%204.84583%2017.2847%204.87602%2016.439C4.87602%2016.4203%204.87602%2016.4017%204.87602%2016.383C4.91795%2015.067%206.31317%2013.781%206.31317%2012.463Z'%20stroke='%23000000'%20stroke-width='1.5'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3cpath%20d='M9.42633%2017.279C9.01212%2017.279%208.67633%2017.6148%208.67633%2018.029C8.67633%2018.4432%209.01212%2018.779%209.42633%2018.779V17.279ZM13.9757%2018.779C14.3899%2018.779%2014.7257%2018.4432%2014.7257%2018.029C14.7257%2017.6148%2014.3899%2017.279%2013.9757%2017.279V18.779ZM12.676%205.25C13.0902%205.25%2013.426%204.91421%2013.426%204.5C13.426%204.08579%2013.0902%203.75%2012.676%203.75V5.25ZM10.726%203.75C10.3118%203.75%209.97601%204.08579%209.97601%204.5C9.97601%204.91421%2010.3118%205.25%2010.726%205.25V3.75ZM9.42633%2018.779H13.9757V17.279H9.42633V18.779ZM12.676%203.75H10.726V5.25H12.676V3.75Z'%20fill='%23000000'/%3e%3c/svg%3e" alt="">
+            </div>
+            <!-- #endregion notif-->
+            <!-- #region login-->
+            <div
+              class="w-33.5 h-full border border-black/10 rounded-xl px-2 py-4 flex items-center justify-center gap-2 *:text-xs font-semibold">
+              <img class="opacity-70" src="data:image/svg+xml,%3csvg%20xmlns:xlink='http://www.w3.org/1999/xlink'%20xmlns='http://www.w3.org/2000/svg'%20style='width:%2024px;%20height:%2024px;%20fill:%20var(--color-icon-high-emphasis);'%20width='24'%20height='24'%20%3e%3cdefs%3e%3csymbol%20id='registerationSignIn'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3e%3cpath%20fill-rule='evenodd'%20d='M16%2015h-2v2a2%202%200%2001-2%202H6a2%202%200%2001-2-2V7a2%202%200%20012-2h6a2%202%200%20012%202v2h2V7a4%204%200%2000-4-4H6a4%204%200%2000-4%204v10a4%204%200%20004%204h6a4%204%200%20004-4v-2zm6-4H9.414l2.293-2.293-1.414-1.414-4%204a1%201%200%20000%201.414l4%204%201.414-1.414L9.414%2013H22v-2z'%20clip-rule='evenodd'%3e%3c/path%3e%3c/symbol%3e%3c/defs%3e%3cuse%20xlink:href='%23registerationSignIn'%3e%3c/use%3e%3c/svg%3e" alt="">
+              <div class="flex items-center mb-px gap-1">
+                <a href="">ورود</a>
+                <span class="w-px h-3  bg-black"></span>
+                <a href="">ثبت نام</a>
+              </div>
+            </div>
+            <!-- #endregion login-->
+            <span class="w-[0.5px] h-6 bg-black opacity-15 mr-3"></span>
+            <!-- #region basket-->
+            <div class="mr-5">
+              <img src="data:image/svg+xml,%3csvg%20xmlns:xlink='http://www.w3.org/1999/xlink'%20xmlns='http://www.w3.org/2000/svg'%20style='width:%2024px;%20height:%2024px;%20fill:%20var(--color-icon-high-emphasis);'%20width='24'%20height='24'%20%3e%3cdefs%3e%3csymbol%20id='cartOff'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3e%3cpath%20fill-rule='evenodd'%20d='M20%204h2V2h-3a1%201%200%2000-1%201v1H3a1%201%200%2000-.995%201.1l1%2010A1%201%200%20004%2016h15a1%201%200%20001-1V4zm-2%2017a2%202%200%20110-4%202%202%200%20010%204zM5%2021a2%202%200%20110-4%202%202%200%20010%204zm13-7V6H4.105l.8%208H18z'%20clip-rule='evenodd'%3e%3c/path%3e%3c/symbol%3e%3c/defs%3e%3cuse%20xlink:href='%23cartOff'%3e%3c/use%3e%3c/svg%3e" alt="">
+            </div>
+            <!-- #endregion basket-->
+          </div>
+          <!-- #endregion login-basket-->
+        </div>
+      </div>
+      <!-- #region header-menu-location-->
+      <div class="header-menu-location w-full h-10 flex justify-between items-center">
+        <!-- #region main menu-->
+        <div class="mainMenu flex items-center ">
+          <!-- #region category-->
+          <div class="categoryLink w-36 h-10 flex items-center justify-between cursor-pointer relative group ">
+            <img class="w-5 h-5 opacity-70" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M4%206H20M4%2012H20M4%2018H20'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+            <p class="text-[14px] ml-4">دسته‌بندی کالاها</p>
+            <span class="w-px h-4 bg-black/20"></span>
+            <div class="transition-all duration-300 absolute bg-red-600 w-0 group-hover:w-full h-0.5 bottom-0 "></div>
+          </div>
+          <!-- #endregion category-->
+          <!-- #region navbar-items-->
+          <div
+            class="navbarItemsContainer grid grid-flow-col gap-2 *:flex *:gap-1 *:text-xs *:text-black/70 *:items-center items-center *:p-3  relative ">
+
+            <div class="bilbilak absolute transition-all duration-300 bg-red-600 p-0! w-0 h-0.5 bottom-0 ">
+            </div>
+          </div>
+          <!-- #endregion navbar-items-->
+        </div>
+        <!-- #region location -->
+        <div class="location bg-[#FEF6EF] flex gap-2 items-center justify-center px-3 py-1 rounded-2xl cursor-pointer">
+          <svg width="24px" height="24px" viewBox="0 0 24 24">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
+              fill="#F57F17" />
+          </svg>
+          <p class="text-[#F57F17] text-xs">انتخاب آدرس</p>
+        </div>
+        <!-- #endregion location -->
+        <!-- #endregion main menu-->
+
+      </div>
+      <!-- #endregion header-menu-location-->
+      <!-- #endregion logo-search-login-basket -->
+
+    </div>
+    <!-- #endregion desktop header-menu-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region modals-->
+    <!-- #region search Modal-->
+    <div class="searchModalOverlay fixed inset-0 bg-black/20 opacity-0 pointer-events-none transition-all duration-500">
+      <div
+        class="searchModal w-129 max-h-0 overflow-hidden p-2 opacity-0 bg-white absolute top-16 right-55.75 rounded-3xl transition-all duration-500 flex flex-col gap-4">
+
+        <div class="w-full h-11 bg-[#F0F0F1] rounded-3xl relative">
+          <div class="absolute w-10 h-full flex items-center justify-center mr-2">
+            <svg style="width:24px;height:24px;fill:#81858d;">
+              <use xlink:href="#searchSearch"></use>
+            </svg>
+          </div>
+          <input class="w-full h-full pr-12 outline-none bg-transparent" placeholder="جستجو" type="text">
+        </div>
+
+      </div>
+    </div> <!-- #endregion desktop search Modal-->
+
+    <!-- #endregion search Modal;-->
+    <!-- #region location Modal-->
+    <div class="locationModalOverlay fixed top-0 w-382 h-screen bg-black/20 hidden">
+      <div
+        class="locationModal w-195 h-150 absolute top-1/2 flex left-1/2 -translate-x-1/2 p-4 -translate-y-1/2 mt-4 rounded-2xl flex-col items-center bg-white shadow ">
+        <!-- #region header-->
+        <div class="w-full h-[10%] flex justify-between items-center">
+          <p class="text-md">انتخاب موقعیت مکانی</p>
+          <img class="locationClose w-6 h-6 cursor-pointer opacity-55" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%201024%201024'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill='%23000000'%20d='M195.2%20195.2a64%2064%200%200%201%2090.496%200L512%20421.504%20738.304%20195.2a64%2064%200%200%201%2090.496%2090.496L602.496%20512%20828.8%20738.304a64%2064%200%200%201-90.496%2090.496L512%20602.496%20285.696%20828.8a64%2064%200%200%201-90.496-90.496L421.504%20512%20195.2%20285.696a64%2064%200%200%201%200-90.496z'/%3e%3c/svg%3e" alt="">
+        </div>
+        <p class="w-full text-xs text-black/40">برای تحویل به‌موقع سفارش، موقعیت را دقیق انتخاب کنید.
+        </p>
+        <br>
+        <div class="w-full h-px bg-black/20"></div>
+        <br>
+        <!-- #endregion header-->
+        <!-- #region mapbox-->
+        <div class="w-[95%] h-[80%] " id="map"></div>
+        <!-- #endregion mapbox-->
+        <!-- #region location btn-->
+        <br>
+        <div class="w-[95%] h-[10%] bg-red-500 flex items-center rounded-xl cursor-pointer justify-center text-white">
+          ثبت موقعیت مکانی
+        </div>
+        <!-- #endregion location btn-->
+
+      </div>
+
+    </div>
+    <!-- #endregion location Modal-->
+    <!-- #endregion modals-->
 
 
+    <div class="h-500"></div>
+  </div>
+  <!-- #endregion  wraper-->
+
+
+
+
+
+
+  <!----------------------------------------------------------------------------------------->
+
+  </div>
+  <!-- #region scripts-->
+  <!-- #endregion scripts-->
 </body>
 
 
