@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html dir="rtl">
 
 <head>
   <meta charset="UTF-8">
@@ -9,15 +9,216 @@
 
 <body>
   <!-- #region wraper-->
-  <div class="wraper">
+  <div class="wraper font-vazir max-w-382 mx-auto relative">
     <!-- #region header-banner-->
-    <div class="w-full h-15 adsBanner">
-      <!-- #endregion header-banner-->
+    <div class="hidden w-full h-15 adsBanner sticky top-0">
     </div>
-    <!-- #endregion  wraper-->
+    <!-- #endregion header-banner-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region desktop header-menu-->
+    <div class="headerMenu w-full px-4 [box-shadow:0_2px_2px_-2px_gray] hidden lg:flex flex-col sticky top-0">
+      <!-- #region logo-search-login-basket -->
+      <div class="headerSearchLogin w-full h-17 ">
+        <div class="w-full h-full py-3 flex justify-between">
+          <!-- #region logo-search-->
+          <div class="logo-searchBox flex items-center gap-5">
+            <!--#region logo -->
+            <img class="logo w-48.75 h-7.5" src="/svgs/logo.svg" alt="">
+            <!-- #endregion logo-->
+            <!-- #region search box-->
+            <div class="searchBox w-117 h-11 bg-[#ECEDEF] rounded-3xl">
+              <div class="w-full h-full px-4 flex items-center gap-2 group">
+                <svg style="width: 24px; height: 24px; fill:#81858d;" width="24" height="24">
+                  <defs>
+                    <symbol id="searchSearch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                      <path fill-rule="evenodd"
+                        d="M10.5 18a7.5 7.5 0 115.973-2.963l4.369 4.246-1.394 1.434-4.387-4.263A7.467 7.467 0 0110.5 18zm5.5-7.5a5.5 5.5 0 11-11 0 5.5 5.5 0 0111 0z"
+                        clip-rule="evenodd"></path>
+                    </symbol>
+                  </defs>
+                  <use xlink:href="#searchSearch"></use>
+                </svg>
+                <input
+                  class="searchInput w-80 h-10 pb-1 px-2 outline-none placeholder:text-xs font-vazir placeholder:text-[#9296a0] text-sm text-[#81858d] peer"
+                  type="text" autocomplete="off" placeholder="جستجو">
+                <div
+                  class="bg-[#F2F3F5] h-6.5 rounded-lg text-[#616161] text-xs font-mono items-center px-2 hidden group-hover:flex ">
+                  Ctrl+K</div>
+              </div>
+            </div>
+
+            <!-- #endregion search box-->
+          </div>
+          <!-- #endregion logo search-->
+          <!-- #region logon-basket-->
+          <div class="w-62.5 h-11 flex items-center justify-center ">
+            <!-- #region notif-->
+            <div class="w-10 h-10 flex items-center ml-2 cursor-pointer">
+              <img class="w-8 h-8 opacity-80" src="./src/images/svgs/notifikation.svg" alt="">
+            </div>
+            <!-- #endregion notif-->
+            <!-- #region login-->
+            <div
+              class="w-33.5 h-full border cursor-pointer border-black/10 rounded-xl px-2 py-4 flex items-center justify-center gap-2 *:text-[13px] ">
+              <img class="opacity-70" src="./src/images/svgs/login.svg" alt="">
+              <div class="flex items-center mb-px gap-1">
+                <a href="">ورود</a>
+                <span class="w-px h-3  bg-black"></span>
+                <a href="">ثبت نام</a>
+              </div>
+            </div>
+            <!-- #endregion login-->
+            <span class="w-[0.5px] h-6 bg-black opacity-15 mr-3"></span>
+            <!-- #region basket-->
+            <div class="mr-5 cursor-pointer">
+              <img src="./src/images/svgs/basket.svg" alt="">
+            </div>
+            <!-- #endregion basket-->
+          </div>
+          <!-- #endregion login-basket-->
+        </div>
+      </div>
+      <!-- #region header-menu-location-->
+      <div class="header-menu-location w-full h-10 flex justify-between items-center">
+        <!-- #region main menu-->
+        <div class="mainMenu flex items-center ">
+          <!-- #region burger menu btn-->
+          <div class="burgerMenuBtn w-36 h-10 flex items-center justify-between cursor-pointer relative ">
+            <img class="w-5 h-5 opacity-70" src="./src/images/svgs/category.svg" alt="">
+            <p class="text-[14px] ml-4">دسته‌بندی کالاها</p>
+            <span class="w-px h-4 bg-black/20"></span>
+            <div class="secondbilbilak transition-all duration-300 absolute bg-red-600 w-0 h-0.5 bottom-0 ">
+            </div>
+          </div>
+          <!-- #endregion burger menu btn-->
+          <!-- #region navbar-items-->
+          <div
+            class="navbarItemsContainer grid grid-flow-col gap-2 *:flex *:gap-1 *:text-xs *:text-black/70 *:items-center items-center *:p-3  relative ">
+
+            <div class="bilbilak absolute transition-all duration-200 bg-red-600 p-0! w-0 h-0.5 bottom-0 ">
+            </div>
+          </div>
+          <!-- #endregion navbar-items-->
+        </div>
+        <!-- #region location -->
+        <div class="location bg-[#FEF6EF] flex gap-2 items-center justify-center px-3 py-1 rounded-2xl cursor-pointer">
+          <svg width="24px" height="24px" viewBox="0 0 24 24">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
+              fill="#F57F17" />
+          </svg>
+          <p class="text-[#F57F17] text-xs">انتخاب آدرس</p>
+        </div>
+        <!-- #endregion location -->
+        <!-- #endregion main menu-->
+
+      </div>
+      <!-- #endregion header-menu-location-->
+      <!-- #endregion logo-search-login-basket -->
+    </div>
+    <!-- #endregion desktop header-menu-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region burger menu-->
+    <div class="burgerMenuOverlay hidden w-screen pr-5 h-screen fixed bg-black/20  *:rounded-b-md **:rounded-b-md">
+      <div class="burgerMenu flex w-fit h-[70%] bg-white shadow-2xl ">
+        <div dir="ltr"
+          class="burgerMenuItemsContainer w-50  h-full bg-[#f5f5f5] flex flex-col *:flex *:items-center  *:gap-2 *:h-12 *:py-3 *:px-2 *:hover:bg-white overflow-auto">
+        </div>
+        <div dir="ltr" class="subMenuItemsContainer flex flex-col gap-5 p-5 overflow-auto ">
+
+        </div>
+      </div>
+    </div>
+
+    <!-- #endregion burger menu-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region search Modal-->
+    <div class="searchModalOverlay max-h-0 absolute inset-0 bg-black/20 opacity-0  transition-all duration-500">
+      <div
+        class="searchModal w-120 max-h-0 overflow-hidden p-2 opacity-0 bg-white absolute right-55.75 rounded-3xl transition-all duration-500 flex flex-col gap-4">
+
+        <div class="searchModalInput w-full h-11 bg-[#F0F0F1] rounded-3xl relative">
+          <div class="absolute w-10 h-full flex items-center justify-center mr-2">
+            <svg style="width:24px;height:24px;fill:#81858d;">
+              <use xlink:href="#searchSearch"></use>
+            </svg>
+          </div>
+          <input class="w-full h-full pr-12 outline-none bg-transparent" placeholder="جستجو" type="text">
+        </div>
+        <div class="searchModalContent relative px-2 flex flex-col gap-4">
+          <!-- #region recently search-->
+          <div class="recentlySearch">
+            <h1 class="mb-2">جستجوهای اخیر</h1>
+            <div class="recentlySearchItems grid grid-cols-4 items-center gap-1 gap-y-2 ">
+              <div class="w-fit px-1 py-1 border border-black/15 rounded-4xl flex gap-1">
+                <p class="text-black/70 text-xs line-clamp-1">ماشین کنترلی</p>
+              </div>
+            </div>
+          </div>
+          <!-- #endregion recently search-->
+          <!-- #region trend search-->
+          <div class="trendSearch">
+            <h1 class="mb-2">جستجوی های پرطرفدار</h1>
+            <div class="trendSearchItems grid grid-cols-4 items-center gap-1 gap-y-2 ">
+            </div>
+          </div>
+          <!-- #endregion trend search-->
+          <button class="serarchEraser absolute text-xs left-2 text-black/50 hover:text-black/70 cursor-pointer ">
+            پاک کردن
+          </button>
+        </div>
+      </div>
+    </div> <!-- #endregion desktop search Modal-->
+
+    <!-- #endregion search Modal;-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region location Modal-->
+    <div class="locationModalOverlay fixed top-0 w-382 h-screen bg-black/20 hidden">
+      <div
+        class="locationModal w-195 h-150 absolute top-1/2 flex left-1/2 -translate-x-1/2 p-4 -translate-y-1/2 mt-4 rounded-2xl flex-col items-center bg-white shadow ">
+        <!-- #region header-->
+        <div class="w-full h-[10%] flex justify-between items-center">
+          <p class="text-md">انتخاب موقعیت مکانی</p>
+          <img class="locationClose w-6 h-6 cursor-pointer opacity-55" src="./src/images/svgs/close.svg" alt="">
+        </div>
+        <p class="w-full text-xs text-black/40">برای تحویل به‌موقع سفارش، موقعیت را دقیق انتخاب کنید.
+        </p>
+        <br>
+        <div class="w-full h-px bg-black/20"></div>
+        <br>
+        <!-- #endregion header-->
+        <!-- #region mapbox-->
+        <div class="w-[95%] h-[80%] " id="map"></div>
+        <!-- #endregion mapbox-->
+        <!-- #region location btn-->
+        <br>
+        <div class="w-[95%] h-[10%] bg-red-500 flex items-center rounded-xl cursor-pointer justify-center text-white">
+          ثبت موقعیت مکانی
+        </div>
+        <!-- #endregion location btn-->
+
+      </div>
+
+    </div>
+    <!-- #endregion location Modal-->
+    <!----------------------------------------------------------------------------------------->
 
 
-    <script type="module" src="./src/js/main.js"></script>
+    <div class="h-500"></div>
+  </div>
+  <!-- #endregion wraper-->
+
+
+
+
+
+
+  <!----------------------------------------------------------------------------------------->
+
+  </div>
+  <!-- #region scripts-->
+  <script type="module" src="./src/js/main.js"></script>
+  <!-- #endregion scripts-->
 </body>
 
 
