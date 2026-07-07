@@ -1,0 +1,569 @@
+{
+    "adsBanner": [
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/573048c893dc576018cfe7f9f704e7d56e54a73f_1781430246.jpg?x-oss-process=image/quality,q_95",
+            "link": "https://www.digikala.com/landing/summer-festival/?&promo_name=%D8%AA%D8%AE%D9%81%DB%8C%D9%81+%D8%AF%D8%A7%D8%BA+%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D9%88%D9%86&promo_position=all_mega_menu_top&promo_creative=209541&bCode=209541"
+        }
+    ],
+    "burger-menu": [
+        {
+            "title": "موبایل",
+            "svg": "<svg style='width: 18px; height: 18px; fill: var(--color-icon-high-emphasis);' width='24'  height='24' ><defs><symbol id='mobile' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill-rule='evenodd' d='M7 1h10a3 3 0 013 3v16a3 3 0 01-3 3H7a3 3 0 01-3-3V4a3 3 0 013-3zm0 2a1 1 0 00-1 1v16a1 1 0 001 1h10a1 1 0 001-1V4a1 1 0 00-1-1H7zm5 17a2 2 0 100-4 2 2 0 000 4z' clip-rule='evenodd'></path></symbol></defs><use xlink:href='#mobile'></use></svg>",
+            "link": "https://www.digikala.com/search/category-mobile-phone/",
+            "subMenu": [
+                {
+                    "title": "انتخاب موبایل",
+                    "link": "https://www.digikala.com/landing/mobile/",
+                    "subLinks": []
+                },
+                {
+                    "title": "گوشی های اپل",
+                    "link": "https://www.digikala.com/search/category-mobile-phone/apple/",
+                    "subLinks": [
+                        {
+                            "title": "آیفون 16",
+                            "link": "https://www.digikala.com/tags/iphone-16/"
+                        },
+                        {
+                            "title": "آیفون 17",
+                            "link": "https://www.digikala.com/tags/iphone-17/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "لپ‌تاپ",
+            "svg": "<svg  style='width: 18px; height: 18px;' width='24'  height='24' ><defs><symbol id='electronic' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill-rule='evenodd' d='M4 5a1 1 0 011-1h14a1 1 0 011 1v8.723l2.858 4.762A1 1 0 0122 20H2a1 1 0 01-.857-1.515L4 13.723V5zm2 8h12V6H6v7zm-.434 2l-1.8 3h16.468l-1.8-3H5.566z' clip-rule='evenodd'></path></symbol></defs><use xlink:href='#electronic'></use></svg>",
+            "link": "https://www.digikala.com/landing/laptop/",
+            "subMenu": [
+                {
+                    "title": "انتخاب لپ‌تاپ",
+                    "link": "https://www.digikala.com/landing/laptop/",
+                    "subLinks": []
+                },
+                {
+                    "title": "لپ‌تاپ ایسوس",
+                    "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/asus/",
+                    "subLinks": []
+                },
+                {
+                    "title": "برند های مختلف گوشی‌های موبایل",
+                    "link": "https://www.digikala.com/landing/mobile_brands/",
+                    "subLinks": [
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        },
+                        {
+                            "title": "گوشی سامسونگ",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                        },
+                        {
+                            "title": "گوشی شیائومی",
+                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navItems": [
+        {
+            "title": "شگفت‌انگیزها",
+            "svg": "/Digikala/svgs/discount.svg",
+            "link": "https://www.digikala.com/incredible-offers/"
+        },
+        {
+            "title": "سوپرمارکت",
+            "svg": "/Digikala/svgs/market.svg",
+            "link": "https://www.digikala.com/fresh/?utm_source=digikala-web&utm_medium=home-category"
+        },
+        {
+            "title": "طلاونقره دیجیتال",
+            "svg": "/Digikala/svgs/gold.svg",
+            "link": "https://www.digikala.com/wealth/landing/digital-gold/"
+        },
+        {
+            "title": "پرفروش ترین ها",
+            "svg": "/Digikala/svgs/Bestseller.svg",
+            "link": "https://www.digikala.com/best-selling/"
+        },
+        {
+            "title": "سوالی دارید؟",
+            "link": "https://www.digikala.com/faq/"
+        },
+        {
+            "title": "در دیجیکالا بفروشید!",
+            "link": "https://www.digikala.com/landings/seller-introduction/"
+        }
+    ],
+    "trend-search": [
+        {
+            "title": "ساعت هوشمند",
+            "link": "https://www.digikala.com/search/?q=%D8%B3%D8%A7%D8%B9%D8%AA+%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF"
+        },
+        {
+            "title": "صندلی گیمینگ",
+            "link": "https://www.digikala.com/search/?q=%D8%B5%D9%86%D8%AF%D9%84%DB%8C+%DA%AF%DB%8C%D9%85%DB%8C%D9%86%DA%AF"
+        },
+        {
+            "title": "A57",
+            "link": "https://www.digikala.com/search/?q=A57"
+        },
+        {
+            "title": "A36",
+            "link": "https://www.digikala.com/search/?q=A36"
+        },
+        {
+            "title": "اسباب بازی",
+            "link": "https://www.digikala.com/search/?q=%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8+%D8%A8%D8%A7%D8%B2%DB%8C+"
+        }
+    ]
+}
