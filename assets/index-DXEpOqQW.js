@@ -2,7 +2,7 @@ var e=Object.create,t=Object.defineProperty,n=Object.getOwnPropertyDescriptor,r=
             <a src="${e.link}">
             <img src="${e.img}" alt="" class="w-full h-full object-cover">
             </a>
-        `).join(``),l.innerHTML=u}catch(e){console.log(e)}}d();var f=document.querySelector(`.navbarItemsContainer`);async function p(e){let t=await(await fetch(`http://192.168.1.34:3000/nav-items`)).json(),n=t.length-2,r=1,i=t.map(e=>r<n?(r++,`
+        `).join(``),l.innerHTML=u}catch(e){console.log(e)}}d();var f=document.querySelector(`.navbarItemsContainer`);async function p(e){let t=await(await fetch(`http://localhost:3000/nav-items`)).json(),n=t.length-2,r=1,i=t.map(e=>r<n?(r++,`
             <a href="${e.link}" class="">
               <img class="w-4.5 h-4.5 opacity-50" src="${e.svg}" alt="">
               <p>${e.title}</p>
