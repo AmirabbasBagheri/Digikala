@@ -5,20 +5,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Digikala</title>
-  <script type="module" crossorigin src="/Digikala/assets/index-CHRneQNY.js"></script>
-  <link rel="stylesheet" crossorigin href="/Digikala/assets/index-CWc5CYWD.css">
+  <script type="module" crossorigin src="/Digikala/assets/index-CJijaILj.js"></script>
+  <link rel="stylesheet" crossorigin href="/Digikala/assets/index-Bi1cUc30.css">
 </head>
 
-<body>
+<body class="">
   <!-- #region wraper-->
-  <div class="wraper font-vazir max-w-382 mx-auto relative ">
+  <div class="wraper pb-10 bg-[#F2F3F5] lg:bg-white lg:max-w-382 font-vazir lg:mx-auto lg:relative">
     <!-- #region header-banner-->
-    <div class="hidden w-full h-15 adsBanner sticky top-0">
+    <div class="lg:hidden w-full h-8 lg:h-15 adsBanner lg:sticky top-0">
     </div>
     <!-- #endregion header-banner-->
     <!----------------------------------------------------------------------------------------->
-    <!-- #region desktop header-menu-->
-    <div class="headerMenu w-full px-4 [box-shadow:0_2px_2px_-2px_gray] hidden lg:flex flex-col sticky top-0">
+    <!-- #region desktop header-menu z=102 -->
+    <div class="headerMenu w-full px-4  hidden lg:flex flex-col sticky top-0 z-102 bg-white ">
       <!-- #region logo-search-login-basket -->
       <div class="headerSearchLogin w-full h-17 ">
         <div class="w-full h-full py-3 flex justify-between">
@@ -80,48 +80,63 @@
           <!-- #endregion login-basket-->
         </div>
       </div>
-      <!-- #region header-menu-location-->
-      <div class="header-menu-location w-full h-10 flex justify-between items-center">
-        <!-- #region main menu-->
-        <div class="mainMenu flex items-center ">
-          <!-- #region burger menu btn-->
-          <div class="burgerMenuBtn w-36 h-10 flex items-center justify-between cursor-pointer relative ">
-            <img class="w-5 h-5 opacity-70" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M4%206H20M4%2012H20M4%2018H20'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
-            <p class="text-[14px] ml-4">دسته‌بندی کالاها</p>
-            <span class="w-px h-4 bg-black/20"></span>
-            <div class="secondbilbilak transition-all duration-300 absolute bg-red-600 w-0 h-0.5 bottom-0 ">
-            </div>
-          </div>
-          <!-- #endregion burger menu btn-->
-          <!-- #region navbar-items-->
-          <div
-            class="navbarItemsContainer grid grid-flow-col gap-2 *:flex *:gap-1 *:text-xs *:text-black/70 *:items-center items-center *:p-3  relative ">
 
-            <div class="bilbilak absolute transition-all duration-200 bg-red-600 p-0! w-0 h-0.5 bottom-0 ">
-            </div>
-          </div>
-          <!-- #endregion navbar-items-->
-        </div>
-        <!-- #region location -->
-        <div class="location bg-[#FEF6EF] flex gap-2 items-center justify-center px-3 py-1 rounded-2xl cursor-pointer">
-          <svg width="24px" height="24px" viewBox="0 0 24 24">
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
-              fill="#F57F17" />
-          </svg>
-          <p class="text-[#F57F17] text-xs">انتخاب آدرس</p>
-        </div>
-        <!-- #endregion location -->
-        <!-- #endregion main menu-->
-
-      </div>
-      <!-- #endregion header-menu-location-->
       <!-- #endregion logo-search-login-basket -->
     </div>
     <!-- #endregion desktop header-menu-->
+    <!-- #region header-menu-location-->
+    <div
+      class="header-menu-location hidden lg:flex justify-between items-center [box-shadow:0_2px_2px_-2px_gray] sticky top-17 z-101 bg-white transition-all duration-400 px-2">
+      <!-- #region main menu-->
+      <div class="mainMenu flex items-center  ">
+        <!-- #region burger menu btn-->
+        <div class="burgerMenuBtn w-36 h-10 flex items-center justify-between cursor-pointer relative">
+          <img class="w-5 h-5 opacity-70" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M4%206H20M4%2012H20M4%2018H20'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+          <p class="text-[14px] ml-4">دسته‌بندی کالاها</p>
+          <span class="w-px h-4 bg-black/20"></span>
+          <div class="secondbilbilak transition-all duration-300 absolute bg-red-600 w-0 h-0.5 bottom-0 ">
+          </div>
+        </div>
+        <!-- #endregion burger menu btn-->
+        <!-- #region navbar-items-->
+        <div
+          class="navbarItemsContainer grid grid-flow-col gap-2 *:flex *:gap-1 *:text-xs *:text-black/70 *:items-center items-center *:p-3  relative">
+
+          <div class="bilbilak absolute transition-all duration-200 bg-red-600 p-0! w-0 h-px bottom-0 ">
+          </div>
+        </div>
+        <!-- #endregion navbar-items-->
+      </div>
+      <!-- #region location -->
+      <div class="location bg-[#FEF6EF] flex gap-2 items-center justify-center px-3 py-1 rounded-2xl cursor-pointer">
+        <svg width="24px" height="24px" viewBox="0 0 24 24">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
+            fill="#F57F17" />
+        </svg>
+        <p class="text-[#F57F17] text-xs">انتخاب آدرس</p>
+      </div>
+      <!-- #endregion location -->
+      <!-- #endregion main menu-->
+    </div>
+    <!-- #endregion header-menu-location-->
     <!----------------------------------------------------------------------------------------->
-    <!-- #region burger menu-->
-    <div class="burgerMenuOverlay hidden w-screen pr-5 h-screen fixed bg-black/20  *:rounded-b-md **:rounded-b-md">
+    <!-- #region mobile tablist z=100-->
+    <div
+      class="tablist h-20.5 lg:hidden px-2 grid grid-flow-col gap-2 overflow-x-auto items-center no-scrollbar sticky top-0 bg-[#F2F3F5] z-100">
+      <div
+        class="tablistItem w-16.5 h-16 bg-white flex flex-col items-center justify-center rounded-lg border border-black/10">
+        <img class="w-8 h-8"
+          src="https://dkstatics-public.digikala.com/superapp-file/4f1a58293164d31b1a3cf1ef41f6ba4ba4fa4087_1739791745.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+          alt="">
+        <p class="text-[10px]">سرویس ها</p>
+      </div>
+    </div>
+    <!-- #endregion mobile tablist-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region burger menu z=102-->
+    <div
+      class="burgerMenuOverlay hidden lg:w-screen pr-5 h-screen fixed bg-black/20  *:rounded-b-md **:rounded-b-md z-102 ">
       <div class="burgerMenu flex w-fit h-[70%] bg-white shadow-2xl ">
         <div dir="ltr"
           class="burgerMenuItemsContainer w-50  h-full bg-[#f5f5f5] flex flex-col *:flex *:items-center  *:gap-2 *:h-12 *:py-3 *:px-2 *:hover:bg-white overflow-auto">
@@ -134,18 +149,44 @@
 
     <!-- #endregion burger menu-->
     <!----------------------------------------------------------------------------------------->
-    <!-- #region search Modal-->
-    <div class="searchModalOverlay max-h-0 absolute inset-0 bg-black/20 opacity-0  transition-all duration-500">
+    <!-- #region search Modal z=102-->
+    <div
+      class="searchModalOverlay max-h-0 absolute inset-0 bg-black/20 opacity-0  transition-all lg:duration-500 duration-300 z-102">
       <div
-        class="searchModal w-120 max-h-0 overflow-hidden p-2 opacity-0 bg-white absolute right-55.75 rounded-3xl transition-all duration-500 flex flex-col gap-4">
+        class="searchModal lg:w-120 max-h-0 overflow-hidden p-2 opacity-0 bg-white absolute lg:right-55.75 lg:rounded-3xl transition-all duration-500 flex flex-col gap-4">
 
-        <div class="searchModalInput w-full h-11 bg-[#F0F0F1] rounded-3xl relative">
-          <div class="absolute w-10 h-full flex items-center justify-center mr-2">
-            <svg style="width:24px;height:24px;fill:#81858d;">
-              <use xlink:href="#searchSearch"></use>
+        <div class="w-full flex items-center relative gap-2">
+          <img class="mobileCloseSearch opacity-70 w-7 h-7 cursor-pointer " src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M5%2012H19M19%2012L13%206M19%2012L13%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e"
+            alt="">
+          <div class="searchModalInput w-[90%] lg:w-full h-11 bg-[#F0F0F1] rounded-3xl relative">
+            <div class="absolute w-10 h-full flex items-center justify-center mr-2">
+              <svg style="width:24px;height:24px;fill:#81858d;">
+                <use xlink:href="#searchSearch"></use>
+              </svg>
+            </div>
+            <input class="w-full h-full pr-12 outline-none bg-transparent" placeholder="جستجو" type="text">
+            <svg class="w-9 h-7 *:fill-blue-600 absolute top-2 left-1" width="20px" height="420px" viewBox="0 0 24 24"
+              fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3 6.5C3 4.567 4.567 3 6.5 3H9C9.55228 3 10 3.44772 10 4C10 4.55228 9.55228 5 9 5H6.5C5.67157 5 5 5.67157 5 6.5V9C5 9.55229 4.55228 10 4 10C3.44772 10 3 9.55229 3 9V6.5Z"
+                fill="#212121" />
+              <path
+                d="M21 17.5C21 19.433 19.433 21 17.5 21H15C14.4477 21 14 20.5523 14 20C14 19.4477 14.4477 19 15 19L17.5 19C18.3284 19 19 18.3284 19 17.5V15C19 14.4477 19.4477 14 20 14C20.5523 14 21 14.4477 21 15V17.5Z"
+                fill="#212121" />
+              <path
+                d="M21 6.5C21 4.567 19.433 3 17.5 3H15C14.4477 3 14 3.44772 14 4C14 4.55228 14.4477 5 15 5H17.5C18.3284 5 19 5.67157 19 6.5V9C19 9.55228 19.4477 10 20 10C20.5523 10 21 9.55229 21 9V6.5Z"
+                fill="#212121" />
+              <path
+                d="M6.5 21C4.567 21 3 19.433 3 17.5V15C3 14.4477 3.44772 14 4 14C4.55229 14 5 14.4477 5 15L5 17.5C5 18.3284 5.67157 19 6.5 19H9C9.55229 19 10 19.4477 10 20C10 20.5523 9.55228 21 9 21H6.5Z"
+                fill="#212121" />
+              <path
+                d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z"
+                fill="#212121" />
+              <path
+                d="M7.5 8.75C8.19036 8.75 8.75 8.19036 8.75 7.5C8.75 6.80964 8.19036 6.25 7.5 6.25C6.80964 6.25 6.25 6.80964 6.25 7.5C6.25 8.19036 6.80964 8.75 7.5 8.75Z"
+                fill="#212121" />
             </svg>
           </div>
-          <input class="w-full h-full pr-12 outline-none bg-transparent" placeholder="جستجو" type="text">
         </div>
         <div class="searchModalContent relative px-2 flex flex-col gap-4">
           <!-- #region recently search-->
@@ -174,8 +215,83 @@
 
     <!-- #endregion search Modal;-->
     <!----------------------------------------------------------------------------------------->
-    <!-- #region location Modal-->
-    <div class="locationModalOverlay fixed top-0 w-382 h-screen bg-black/20 hidden">
+    <!-- #region mobile search-notification-location z=106 -->
+    <div
+      class="mobileSearchNotifLocation lg:hidden h-21 sticky top-20.5 flex flex-col gap-2 px-4 py-1  bg-[#F2F3F5] z-100">
+      <div class="mobileSearchAndNotif flex justify-between">
+        <div
+          class="mobileSearchbtn w-[85%] h-11 bg-white flex items-center px-3 border border-black/10 rounded-4xl gap-2 select-none">
+          <img class="w-[10%] opacity-40" src="data:image/svg+xml,%3csvg%20xmlns:xlink='http://www.w3.org/1999/xlink'%20xmlns='http://www.w3.org/2000/svg'%20style='width:%2024px;%20height:%2024px;%20fill:%20var(--color-icon-low-emphasis);'%20width='24'%20height='24'%20%3e%3cdefs%3e%3csymbol%20id='searchSearch'%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3e%3cpath%20fill-rule='evenodd'%20d='M10.5%2018a7.5%207.5%200%20115.973-2.963l4.369%204.246-1.394%201.434-4.387-4.263A7.467%207.467%200%200110.5%2018zm5.5-7.5a5.5%205.5%200%2011-11%200%205.5%205.5%200%200111%200z'%20clip-rule='evenodd'%3e%3c/path%3e%3c/symbol%3e%3c/defs%3e%3cuse%20xlink:href='%23searchSearch'%3e%3c/use%3e%3c/svg%3e" alt="">
+          <div class="w-[78%] flex items-center">
+            <p class="opacity-50">جستجو در</p>
+            <img class="w-15.25 h-4" src="https://www.digikala.com/brand/typography.svg" alt="">
+
+          </div>
+          <svg class="w-[12%] *:fill-blue-600" width="200px" height="420px" viewBox="0 0 24 24" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M3 6.5C3 4.567 4.567 3 6.5 3H9C9.55228 3 10 3.44772 10 4C10 4.55228 9.55228 5 9 5H6.5C5.67157 5 5 5.67157 5 6.5V9C5 9.55229 4.55228 10 4 10C3.44772 10 3 9.55229 3 9V6.5Z"
+              fill="#212121" />
+            <path
+              d="M21 17.5C21 19.433 19.433 21 17.5 21H15C14.4477 21 14 20.5523 14 20C14 19.4477 14.4477 19 15 19L17.5 19C18.3284 19 19 18.3284 19 17.5V15C19 14.4477 19.4477 14 20 14C20.5523 14 21 14.4477 21 15V17.5Z"
+              fill="#212121" />
+            <path
+              d="M21 6.5C21 4.567 19.433 3 17.5 3H15C14.4477 3 14 3.44772 14 4C14 4.55228 14.4477 5 15 5H17.5C18.3284 5 19 5.67157 19 6.5V9C19 9.55228 19.4477 10 20 10C20.5523 10 21 9.55229 21 9V6.5Z"
+              fill="#212121" />
+            <path
+              d="M6.5 21C4.567 21 3 19.433 3 17.5V15C3 14.4477 3.44772 14 4 14C4.55229 14 5 14.4477 5 15L5 17.5C5 18.3284 5.67157 19 6.5 19H9C9.55229 19 10 19.4477 10 20C10 20.5523 9.55228 21 9 21H6.5Z"
+              fill="#212121" />
+            <path
+              d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z"
+              fill="#212121" />
+            <path
+              d="M7.5 8.75C8.19036 8.75 8.75 8.19036 8.75 7.5C8.75 6.80964 8.19036 6.25 7.5 6.25C6.80964 6.25 6.25 6.80964 6.25 7.5C6.25 8.19036 6.80964 8.75 7.5 8.75Z"
+              fill="#212121" />
+          </svg>
+        </div>
+        <div
+          class="mobileNotif w-11 h-11 border border-black/10 rounded-full flex items-center justify-center bg-white">
+          <svg class="opacity-80" width="32px" height="32px" viewBox="0 0 23 23" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M7.07046 10.26C7.96453 7.86801 9.19303 7.03601 11.2132 7.03601C13.2334 7.03601 14.4619 7.86801 15.356 10.26C15.3728 10.3055 15.3862 10.3524 15.396 10.4L16.5543 15.917C16.6155 16.2008 16.5485 16.4978 16.3719 16.7251C16.1953 16.9525 15.928 17.0858 15.6446 17.088H13.3173C13.37 17.6989 13.1737 18.3048 12.7751 18.7618C12.3764 19.2188 11.811 19.4861 11.2132 19.5C10.6151 19.4861 10.0494 19.2186 9.65063 18.7611C9.25191 18.3037 9.05587 17.6972 9.10918 17.086H6.78186C6.49847 17.0838 6.2312 16.9505 6.0546 16.7231C5.878 16.4958 5.81096 16.1988 5.87218 15.915L7.03048 10.4C7.04027 10.3524 7.05363 10.3055 7.07046 10.26Z"
+              stroke="#000000" stroke-width="1.5" stroke-linejoin="round" />
+            <path
+              d="M9.10921 16.336C8.69499 16.336 8.35921 16.6718 8.35921 17.086C8.35921 17.5002 8.69499 17.836 9.10921 17.836V16.336ZM13.3173 17.836C13.7315 17.836 14.0673 17.5002 14.0673 17.086C14.0673 16.6718 13.7315 16.336 13.3173 16.336V17.836ZM9.62888 4.75C9.21467 4.75 8.87888 5.08579 8.87888 5.5C8.87888 5.91421 9.21467 6.25 9.62888 6.25V4.75ZM12.7976 6.25C13.2118 6.25 13.5476 5.91421 13.5476 5.5C13.5476 5.08579 13.2118 4.75 12.7976 4.75V6.25ZM9.10921 17.836H13.3173V16.336H9.10921V17.836ZM9.62888 6.25H12.7976V4.75H9.62888V6.25Z"
+              fill="#000000" />
+          </svg>
+        </div>
+      </div>
+      <div class="mobileLocation flex items-center gap-1">
+        <svg class="*:fill-[#df7224]" width="16px" height="16px" viewBox="0 0 24 24" fill="#E68A49"
+          xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M12.2848 18.9935C12.1567 19.0875 12.0373 19.1728 11.9282 19.2493C11.8118 19.1721 11.6827 19.0833 11.5427 18.9832C10.8826 18.5109 10.0265 17.8176 9.18338 16.9529C7.45402 15.1792 6 12.9151 6 10.5C6 7.18629 8.68629 4.5 12 4.5C15.3137 4.5 18 7.18629 18 10.5C18 12.8892 16.4819 15.1468 14.6893 16.9393C13.8196 17.8091 12.9444 18.5099 12.2848 18.9935ZM19.5 10.5C19.5 16.5 12 21 12 21C11.625 21 4.5 16.5 4.5 10.5C4.5 6.35786 7.85786 3 12 3C16.1421 3 19.5 6.35786 19.5 10.5ZM13.5 10.5C13.5 11.3284 12.8284 12 12 12C11.1716 12 10.5 11.3284 10.5 10.5C10.5 9.67157 11.1716 9 12 9C12.8284 9 13.5 9.67157 13.5 10.5ZM15 10.5C15 12.1569 13.6569 13.5 12 13.5C10.3431 13.5 9 12.1569 9 10.5C9 8.84315 10.3431 7.5 12 7.5C13.6569 7.5 15 8.84315 15 10.5Z"
+            fill="#080341" />
+        </svg>
+        <p class="text-[#df7224] text-[13px]">انتخاب آدرس</p>
+        <svg class="*:fill-[#df7224] mt-1 mr-1" width="8px" height="8px" viewBox="0 -4.5 20 20" version="1.1">
+          <title>arrow_down [#338]</title>
+          <desc>Created with Sketch.</desc>
+          <defs>
+          </defs>
+          <g id="Page-1" stroke="none" stroke-width="1" fill="#df7224" fill-rule="evenodd">
+            <g id="Dribbble-Light-Preview" transform="translate(-220.000000, -6684.000000)" fill="#df7224">
+              <g id="icons" transform="translate(56.000000, 160.000000)">
+                <path
+                  d="M164.292308,6524.36583 L164.292308,6524.36583 C163.902564,6524.77071 163.902564,6525.42619 164.292308,6525.83004 L172.555873,6534.39267 C173.33636,6535.20244 174.602528,6535.20244 175.383014,6534.39267 L183.70754,6525.76791 C184.093286,6525.36716 184.098283,6524.71997 183.717533,6524.31405 C183.328789,6523.89985 182.68821,6523.89467 182.29347,6524.30266 L174.676479,6532.19636 C174.285736,6532.60124 173.653152,6532.60124 173.262409,6532.19636 L165.705379,6524.36583 C165.315635,6523.96094 164.683051,6523.96094 164.292308,6524.36583"
+                  id="arrow_down-[#338]">
+
+                </path>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <!-- #endregion mobile search-notification -->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region location Modal z=102 -->
+    <div class="locationModalOverlay fixed top-0 w-382 h-screen bg-black/20 hidden z-102  ">
       <div
         class="locationModal w-195 h-150 absolute top-1/2 flex left-1/2 -translate-x-1/2 p-4 -translate-y-1/2 mt-4 rounded-2xl flex-col items-center bg-white shadow ">
         <!-- #region header-->
@@ -204,20 +320,136 @@
     </div>
     <!-- #endregion location Modal-->
     <!----------------------------------------------------------------------------------------->
+    <!-- #region story-->
+    <div class="swiper hidden! lg:block! w-7xl h-fit pt-8! mySwiperStory">
+      <div class="swiper-wrapper *:h-35! *:flex! *:flex-col *:items-center *:gap-2 **:gap-3">
+
+
+      </div>
+      <!-- #region navigation-->
+      <div
+        class="swiper-button-prev storyPrev storyPrevDisable w-10! h-10! p-2.5! bg-[#f3f3f3] rounded-full select-none">
+        <img src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M9%206L15%2012L9%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+      </div>
+      <div
+        class="swiper-button-next storyNext storyNextDisable w-10! h-10! p-2.5! bg-[#f3f3f3] rounded-full select-none">
+        <img src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M15%206L9%2012L15%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+      </div>
+      <!-- #endregion navigation-->
+    </div>
+    <!-- #endregion story-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region slider-->
+    <div class="swiper mySwiperSlider sws h-50 lg:h-100 lg:mt-4">
+      <div class="swiper-wrapper sw **:object-cover **:rounded-xl **:lg:rounded-none *:p-2 *:lg:p-0 **:h-full">
+        <!-- <div class="swiper-slide">
+          <img
+            src="https://dkstatics-public.digikala.com/digikala-adservice-banners/3152a0035c9fbd01d7e5cb9b35f7916b7dcf7873_1782761259.jpg?x-oss-process=image/quality,q_95/format,webp"
+            alt="">
+        </div> -->
+
+      </div>
+      <!-- #region navigation-->
+      <div
+        class="swiper-button-prev sliderPrev sliderPrevDisable w-10! h-10! p-2! opacity-0! transition-all duration-200 absolute! top-85! right-10! bg-[#f3f3f3] rounded-full select-none">
+        <img class="opacity-75" src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M9%206L15%2012L9%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+      </div>
+      <div
+        class="swiper-button-next sliderNext sliderNextDisable w-10! h-10! p-2! opacity-0! transition-all duration-200 absolute! top-85! right-22! bg-[#f3f3f3] rounded-full select-none">
+        <img src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M15%206L9%2012L15%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+      </div>
+      <!-- #endregion navigation-->
+      <!-- #region pagination-->
+      <div class="swiper-pagination sliderPagination hidden lg:flex! items-center! justify-center!"></div>
+      <!-- #endregion pagination-->
+    </div>
+
+    <!-- #endregion slider-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region digikala services-->
+    <div
+      class="digikalaServices bg-white w-full h-fit lg:mt-6 mt-2 lg:pt-0 pt-4 lg:px-24 px-4 lg:pb-4 pb-6  overflow-auto overflow-y-hidden no-scrollbar">
+      <div
+        class="digikalaServicesContainer flex justify-between items-start lg:gap-0 gap-4 lg:px-4 *:flex *:flex-col *:items-center *:gap-2">
+
+      </div>
+
+    </div>
+    <!-- #endregion digikala services-->
+    <!----------------------------------------------------------------------------------------->
+    <!-- #region wonderfull-->
+    <div class="wonderfull  w-full h-80 mt-2 lg:px-24">
+      <div class="bg-[#D52D4E] w-full h-full lg:pr-2 pr-3 lg:py-4 pb-4 flex lg:flex-row flex-col lg:rounded-2xl">
+        <div
+          class="wonderfullBanner lg:w-41.5 w-full lg:h-full h-15 lg:rounded-2xl flex lg:flex-col items-center lg:justify-center justify-between lg:gap-4 lg:px-0 px-2">
+          <div class="flex lg:flex-col items-center justify-center gap-2">
+            <img class="lg:w-16 w-6 lg:h-16 h-6 lg:mb-2"
+              src="https://dkstatics-public.digikala.com/digikala-static/0d072059918d0c22b88320554ce4b3e07d0472f2_1746354551.svg"
+              alt="">
+            <p class="lg:text-2xl text-lg text-white lg:w-full text-center">شگفت انگیز</p>
+            <div dir="ltr" class="clock lg:w-full h-10 flex gap-px items-center justify-center px-1">
+              <div class="hour bg-white  rounded lg:w-8 w-5 lg:h-8 h-5 flex items-center justify-center"></div>
+              <span class="text-white text-xl">:</span>
+              <div class="minute bg-white  rounded lg:w-8 w-5 lg:h-8 h-5 flex items-center justify-center"></div>
+              <span class="text-white text-xl">:</span>
+              <div class="second bg-white  rounded lg:w-8 w-5 lg:h-8 h-5 flex items-center justify-center"></div>
+            </div>
+          </div>
+          <a href="https://www.digikala.com/incredible-offers/"
+            class="lg:w-fit lg:h-8 h-6 lg:pr-2 pr-1 rounded-lg lg:bg-white flex gap-1 justify-center items-center">
+            <p class="lg:text-black text-white text-xs">مشاهده همه</p>
+            <svg class="w-4" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path class="lg:stroke-black stroke-white" d="M15 6L9 12L15 18" stroke="" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </a>
+        </div>
+        <div class="wonderfullProducts hidden lg:block w-full overflow-hidden">
+          <div
+            class="swiper-wrapper *:flex! *:items-center *:justify-center *:flex-col! *:first-of-type:rounded-r-md *:last-of-type:rounded-l-md *:p-1 *:bg-white ">
+          </div>
+          <!-- #region navigation-->
+          <div
+            class="swiper-button-prev wonderfullPrev wonderfullPrevDisable swiper-button-disabled  w-10! h-10! p-2.5! bg-[#f3f3f3] rounded-full select-none  absolute!  lg:top-241! lg:right-66! ">
+            <img src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M9%206L15%2012L9%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+          </div>
+          <div
+            class="swiper-button-next wonderfullNext wonderfullNextDisable swiper-button-disabled  w-10! h-10! p-2.5! bg-[#f3f3f3] rounded-full select-none absolute! lg:top-241! lg:right-345! ">
+            <img src="data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='utf-8'?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width='800px'%20height='800px'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M15%206L9%2012L15%2018'%20stroke='%23000000'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'/%3e%3c/svg%3e" alt="">
+          </div>
+          <!-- #endregion navigation-->
+
+        </div>
+        <div class="mobilewonderfullProducts lg:hidden bg-fuchsia-400 w-full overflow-hidden">
+          <div class="swiper-wrapper *:bg-blue-700  *:flex! *:items-center *:justify-center  ">
+            <div class="swiper-slide">Slide 1</div>
+            <div class="swiper-slide">Slide 2</div>
+            <div class="swiper-slide">Slide 3</div>
+            <div class="swiper-slide">Slide 4</div>
+            <div class="swiper-slide">Slide 5</div>
+            <div class="swiper-slide">Slide 6</div>
+            <div class="swiper-slide">Slide 7</div>
+            <div class="swiper-slide">Slide 8</div>
+            <div class="swiper-slide">Slide 9</div>
+            <div class="swiper-slide">Slide 10</div>
+            <div class="swiper-slide">Slide 11</div>
+            <div class="swiper-slide">Slide 12</div>
+            <div class="swiper-slide">Slide 13</div>
+            <div class="swiper-slide">Slide 9</div>
+            <div class="swiper-slide">Slide 9</div>
+            <div class="swiper-slide">Slide 9</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- #endregion wonderful  -->
+    <!----------------------------------------------------------------------------------------->
 
 
     <div class="h-500"></div>
   </div>
   <!-- #endregion wraper-->
 
-
-
-
-
-
-  <!----------------------------------------------------------------------------------------->
-
-  </div>
   <!-- #region scripts-->
   <!-- #endregion scripts-->
 </body>

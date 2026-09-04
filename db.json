@@ -1,7 +1,7 @@
 {
     "adsBanner": [
         {
-            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/573048c893dc576018cfe7f9f704e7d56e54a73f_1781430246.jpg?x-oss-process=image/quality,q_95",
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3b8bdbfb247d2175ed75f4f8c7dd393efe372958_1783802296.gif?x-oss-process=image?x-oss-process=image/format,webp",
             "link": "https://www.digikala.com/landing/summer-festival/?&promo_name=%D8%AA%D8%AE%D9%81%DB%8C%D9%81+%D8%AF%D8%A7%D8%BA+%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D9%88%D9%86&promo_position=all_mega_menu_top&promo_creative=209541&bCode=209541"
         }
     ],
@@ -439,79 +439,165 @@
                 {
                     "title": "لپ‌تاپ ایسوس",
                     "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/asus/",
-                    "subLinks": []
-                },
-                {
-                    "title": "برند های مختلف گوشی‌های موبایل",
-                    "link": "https://www.digikala.com/landing/mobile_brands/",
                     "subLinks": [
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "لپ تاپ vivobook",
+                            "link": "https://www.digikala.com/tags/asus-vivobook/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "لپ تاپ zenbook",
+                            "link": "https://www.digikala.com/tags/asus-zenbook/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "لپ تاپ TUF Gaming",
+                            "link": "https://www.digikala.com/tags/tuf-gaming-laptops/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "لپ تاپ ROG",
+                            "link": "https://www.digikala.com/tags/rog-laptops/"
+                        }
+                    ]
+                },
+                {
+                    "title": "لپ تاپ لنوو",
+                    "link": "https://www.digikala.com/search/category-notebook-netbook-ultrabook/lenovo/",
+                    "subLinks": [
+                        {
+                            "title": "لپ تاپ v15",
+                            "link": "https://www.digikala.com/tags/lenovo-v15/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "لپ تاپ ideapad 1",
+                            "link": "https://www.digikala.com/tags/lenovo-ideapad-1/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "لپ تاپ ideapad slim 3",
+                            "link": "https://www.digikala.com/tags/lenovo-slim-3/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "لپ تاپ thinkpad",
+                            "link": "https://www.digikala.com/tags/thinkpad-laptop/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "لپ تاپ LOQ",
+                            "link": "https://www.digikala.com/tags/loq-laptops/"
+                        }
+                    ]
+                },
+                {
+                    "title": "بر اساس کاربری",
+                    "link": "https://www.digikala.com/",
+                    "subLinks": [
+                        {
+                            "title": "لپ تاپ دانشجویی",
+                            "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/suitable-for-student-affairs/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "لپ تاپ گیمینگ",
+                            "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-for-game/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "لپ تاپ مالتی مدیا",
+                            "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/classification-multimedia-user/"
+                        }
+                    ]
+                },
+                {
+                    "title": "لوازم جانبی لپ تاپ",
+                    "link": "https://www.digikala.com/search/category-laptop-accessories/",
+                    "subLinks": [
+                        {
+                            "title": "کول پد",
+                            "link": "https://www.digikala.com/search/category-stand-cooling-pad/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "کیف لپ‌تاپ",
+                            "link": "https://www.digikala.com/search/category-laptop-bag/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "شارژر لپ تاپ",
+                            "link": "https://www.digikala.com/search/category-laptop-charger/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "ماوس",
+                            "link": "https://www.digikala.com/search/category-mouse/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "ماوس پد",
+                            "link": "https://www.digikala.com/search/category-mouse-pad/"
                         },
                         {
-                            "title": "گوشی سامسونگ",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/samsung/"
+                            "title": "استیکر لپ تاپ",
+                            "link": "https://www.digikala.com/search/facet/category-laptop-other-accessories/laptop-other-accessories-types-sticker/"
                         },
                         {
-                            "title": "گوشی شیائومی",
-                            "link": "https://www.digikala.com/search/category-mobile-phone/xiaomi/"
+                            "title": "اسکن لپ تاپ",
+                            "link": "https://www.digikala.com/tags/laptop-skins/"
+                        }
+                    ]
+                },
+                {
+                    "title": "لپ تاپ بر اساس نوع حافظه رم",
+                    "link": "https://www.digikala.com/landing/laptop/",
+                    "subLinks": [
+                        {
+                            "title": "لپ تاپ با رم DDR4",
+                            "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/type-of-ram-memory-ddr5/"
+                        },
+                        {
+                            "title": "لپ تاپ با رم DDR5",
+                            "link": "https://www.digikala.com/search/facet/category-notebook-netbook-ultrabook/type-of-ram-memory-ddr5/"
                         }
                     ]
                 }
             ]
+        }
+    ],
+    "mobileTablist": [
+        {
+            "title": "سرویس ها",
+            "link": "https://www.digikala.com/superapp/units/?sa_user=true",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/4f1a58293164d31b1a3cf1ef41f6ba4ba4fa4087_1739791745.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+        },
+        {
+            "title": "جام‌جهانی",
+            "link": "https://www.digikala.com/promotions/world-cup-2026/?sa_user=1&utm_source=digikala-superweb",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/435607449f8d812981e316c39fdc37c974aefa6f_1781527723.gif?x-oss-process=image/resize,w_300/format,webp"
+        },
+        {
+            "title": "دیجی‌کالا",
+            "link": "https://www.digikala.com/",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/a0d63d0f97e2d776150f65a5ca5aa32b36c8c69c_1779804168.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+        },
+        {
+            "title": "۴۵ دقیقه‌ای",
+            "link": "digikalajet.com/?utm_source=digikala-superweb&ff_ctx=JTdCJTIyZ2xvYmFsX3VzZXJfaWQlMjIlM0ElMjJmZTM2MDYwZi02ZGRlLTRmNzctOTFlNC1jY2QxNDFjODEwMTElMjIlN0Q%253D",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/13015d6a1e8a9e4464a6ceb32750299a79249ee6_1782829070.gif?x-oss-process=image/resize,w_300/format,webp"
+        },
+        {
+            "title": "طلا و نقره",
+            "link": "digikala.com/wealth/my-assets/?utm_source=digikala-superweb&ff_ctx=JTdCJTIyZ2xvYmFsX3VzZXJfaWQlMjIlM0ElMjJmZTM2MDYwZi02ZGRlLTRmNzctOTFlNC1jY2QxNDFjODEwMTElMjIlN0Q%253D",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/3c83e0f76591aa2efa42e33448c7cab59a1208cb_1779805075.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+        },
+        {
+            "title": "استایل",
+            "link": "https://www.digistyle.com/?utm_source=digikala-superweb",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/d556c0c053d0b1ddd8e3bedc0994da0994a06da8_1782388353.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp   "
+        },
+        {
+            "title": "سوپرمارکت",
+            "link": "https://www.digikala.com/fresh/?utm_source=digikala-superweb&ff_ctx=JTdCJTIyZ2xvYmFsX3VzZXJfaWQlMjIlM0ElMjJmZTM2MDYwZi02ZGRlLTRmNzctOTFlNC1jY2QxNDFjODEwMTElMjIlN0Q%253D",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/e2812cfdd41b5dc2ff449006154ba3f938d82644_1779805098.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+        },
+        {
+            "title": "اعتبار جدید",
+            "link": "https://pillar.mydigipay.com/?utm_source=digikala-superweb&ff_ctx=JTdCJTIyZ2xvYmFsX3VzZXJfaWQlMjIlM0ElMjJmZTM2MDYwZi02ZGRlLTRmNzctOTFlNC1jY2QxNDFjODEwMTElMjIlN0Q%253D",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/7ae7902fbc209de7d80e79e1e465bf9f8840aec0_1763738479.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
+        },
+        {
+            "title": "",
+            "link": "https://pharmacy.digikala.com/?utm_source=digikala-superweb&ff_ctx=JTdCJTIyZ2xvYmFsX3VzZXJfaWQlMjIlM0ElMjJmZTM2MDYwZi02ZGRlLTRmNzctOTFlNC1jY2QxNDFjODEwMTElMjIlN0Q%253D",
+            "svg": "https://dkstatics-public.digikala.com/superapp-file/05db6acfba2c6d78f941346de37c5c3293affbb4_1779805118.png?x-oss-process=image/resize,w_300/quality,q_90/format,webp"
         }
     ],
     "navItems": [
@@ -565,5 +651,490 @@
             "title": "اسباب بازی",
             "link": "https://www.digikala.com/search/?q=%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8+%D8%A8%D8%A7%D8%B2%DB%8C+"
         }
+    ],
+    "story": [
+        {
+            "title": "لامپ شفاف پرینت کردم",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/cdcc927571ea02276b7cc16ecd3f6edbb31ff99d_1781346550.png?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "هدفون انکر مدل soundcore u2i",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4f56db9d4ae8eba2812e62d989ef3c445e3eb150_1781942715.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "ترازوی هوشمند‌ هیسکا",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/913ac5a53e6a687f0d89c25c329b0dc2d0c587b7_1780350298.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "خاص‌ترین گیره!",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9573f1eb6fcad6d32b8f305d5738a91db19d8c99_1771496297.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "سایبان کولر آبی مپ سیو مدل V1",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ee3fe89a5263840fe5b2adcee7966cce576c872e_1780669483.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "نقد و بررسی هندزفری بلت مدل Hook 1",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fc7cfe34b3ead88e62cd596f4745ded8b83200ac_1782757138.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "هم رسمی هم اسپرت هم هوشمند!",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/5e2049b4f0697a7fcd9f7f9a798a1d4cf052b7c6_1783517800.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "مخصوص کوچولوها",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e5e8c17cdb2e031f1249b0ded80974b86f9cd501_1777939898.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "جوش دادن پلاستیک!",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/867ea7588f7ffa632bb0e7e8621c3c05765e98bc_1778946177.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "چرا این هدفون گزینه مناسبیه؟",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/512e84eeb414b59224ecf5ede9488b5d8c52a512_1783753010.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "هدفون بی سیم انکر مدل space one",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/937386c8c597971b8636a036d45321db86a61791_1782637420.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "فن گیمینگ شارژی",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/203e004035b3ebed988e3e98b440929e32356f88_1781033245.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "ساخت چهارپایه چوبی",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dc005f12f2a469868948b850b012001ca7cbc7cc_1767001401.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "سر زاپاس چسب ۱۲۳  ",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/266b166c0e34e77a27a872bf10d958554e6ff233_1781064255.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "خونه گربه درست کردم",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/958d16bc5eb11aafe91e1977ab022ae0f62946bf_1766259711.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "اگر دنبال یه کفش ایمنی مهندسی بی نهایت راحتید انتخاب شما باید دلیراک باشه",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/220e5bed7de02bd0acbafdd9c38e7a2def72d07e_1783271136.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "۳ ویژگی یه ضدآفتاب خوب",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/5f03956c3ad9b98a27935a98a5616c267a397f79_1778662903.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "پنکه رومیزی شارژی",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c5270fb5ded8280fac83db3ee4be57ea5e9e46f3_1781985523.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "شارژر دیواری انکر مدل A2658",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0a7297d954356fd8e09acf9e44ab0d98d6462a30_1782798753.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        },
+        {
+            "title": "نسل جدید هندزفری",
+            "img": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4cf56df784c85c2e99b5d1641b22c667d4d9c97c_1783585809.jpg?x-oss-process=image/resize,m_fill,h_115,w_115/format,webp"
+        }
+    ],
+    "slider": [
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a030f4fa7432e0a6ea97b060f15394373a9a17e6_1785334953.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/otaghak/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D8%A7%D8%AA%D8%A7%D9%82%DA%A9&promo_position=home_slider_new_v2&promo_creative=211379&bCode=211379"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/aa1db912670609e4da8ae415db5829a95eb48279_1785305401.gif?x-oss-process=image/format,webp",
+            "link": "https://about.digikala.com/campaigns/vitalayer/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%88%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%B1&promo_position=home_slider_new_v2&promo_creative=210196&bCode=211371"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a89c97b220617991cf4869cc5ee77066ca728607_1785678780.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/hb-faceserum/?&promo_name=%D8%B3%D8%B1%D9%85+%D9%BE%D9%88%D8%B3%D8%AA%DB%8C&promo_position=home_slider_new_v2&promo_creative=211405&bCode=211405"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/20951d666bd46aec15b540b4b3af38d536b6d62e_1785311641.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/cold-drink-he/?&promo_name=%D9%86%D9%88%D8%B4%DB%8C%D8%AF%D9%86%DB%8C+%D8%AE%D9%86%DA%A9&promo_position=home_slider_new_v2&promo_creative=211392&bCode=211392"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c7612ccc4dab14222a6bcf8f627e0d4760108a55_1785240669.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/home-bedelmishine/?&promo_name=%D8%A7%D8%AA%D8%A7%D9%82+%D8%A8%D9%87+%D8%A7%D8%AA%D8%A7%D9%82%D8%B4+%D8%A8%D9%87+%D8%AF%D9%84+%D9%85%DB%8C%D8%B4%DB%8C%D9%86%D9%87+-+%D9%88%D8%A8&promo_position=home_slider_new_v2&promo_creative=211344&bCode=211344"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/2915dc5751c9570c9abb7a767bc21f4a336ab629_1785591388.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/pet-brand-collab/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%BE%D8%AA&promo_position=home_slider_new_v2&promo_creative=210630&bCode=211367"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/41ef94595f5fd1efbe94c94a439c73740688282a_1785327613.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/vitaplexcampaign05/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%88%DB%8C%D8%AA%D8%A7%D9%BE%D9%84%DA%A9%D8%B3&promo_position=home_slider_new_v2&promo_creative=211369&bCode=211369"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/563561b32c6c57a0a91f292b58e3f1e75423cff5_1785321362.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://dgka.me/Qz9ez4/?&promo_name=%D9%BE%D8%A7%D8%B1%D8%AA%D9%86%D8%B1%D8%B4%DB%8C%D9%BE-%D9%81%DB%8C%D9%84%D9%85%D9%86%D8%AA&promo_position=home_slider_new_v2&promo_creative=211377&bCode=211377"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6cde84c77bce852fb7c4f19d4e7afd9c7c206d4f_1785311853.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/best-cooler/?&promo_name=%DA%A9%D9%88%D9%84%D8%B1+%DA%A9%D9%85+%D9%85%D8%B5%D8%B1%D9%81&promo_position=home_slider_new_v2&promo_creative=211394&bCode=211394"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3b30820bcfbdfcdb53082611ed1b90004c34116b_1785525042.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/landing/gold-dailyaction/?&promo_name=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86+%D9%82%DB%8C%D9%85%D8%AA+%D8%B4%D9%85%D8%B4+%D9%88+%D8%B3%DA%A9%D9%87&promo_position=home_slider_new_v2&promo_creative=211403&bCode=211403"
+        },
+        {
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/eae08c0eea8ee54980fcb67f663ed56aff2eaac5_1785141643.jpg?x-oss-process=image/quality,q_80/format,webp",
+            "link": "https://dgka.me/9E56Pg/?&promo_name=%D9%BE%DB%8C%D8%A7%D9%85%DA%A9+%D8%A8%D8%B9%D8%AF+%D9%82%D8%A8%D8%B6&promo_position=home_slider_new_v2&promo_creative=211307&bCode=211307"
+        }
+    ],
+    "digikalaServices": [
+        {
+            "title": "سوپرمارکت فوری",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/856d2daf9782a77d34755204955c745d401582f2_1784737192.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikalajet.com/?utm_source=digikala-superweb"
+        },
+        {
+            "title": "طلا و نقره دیجیتال",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/57c39ef7e3df9682a1c50da73500c74faadf5eb6_1782816426.png?x-oss-process=image/format,webp",
+            "link": "digikala.com/wealth/my-assets/"
+        },
+        {
+            "title": "ارسال ۳ ساعته",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/956a46122ac0902eb6804805c28eaad59bba92d2_1779621365.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/nearbystore-all/"
+        },
+        {
+            "title": "تا ۱۷% تخفیف طلا",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/3b78c0da204cdf1e3f9456bc88a6f9fab207c3cb_1738825186.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/product-list/plp_433198703/?sort=25"
+        },
+        {
+            "title": "بازار",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/4db9fb0f4b6e61b436ee40e60947530a51d33286_1785328017.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/superapp/bazaar/?sa_user=true"
+        },
+        {
+            "title": "دیجی‌استایل",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/ae21e2324e1f2261bb9cc7feff58fa34b258afc8_1782109141.png?x-oss-process=image/format,webp",
+            "link": "https://www.digistyle.com/?tag=all&utm_source=onsite&utm_campaign=payday-tir"
+        },
+        {
+            "title": "دیجی‌کارت",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/682cb9c6aa593f26e1908cb0354285628e916a79_1785602818.jpg?x-oss-process=image/format,webp",
+            "link": "https://app.mydigipay.com/wallet/main/digicard?referrer=dpxapp"
+        },
+        {
+            "title": "حراج لپ‌تاپ تبلت",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/a921b5cf530fa6bc3c6d2c6222c35ceeeac68937_1741071269.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/laptop-tablet/?sort=7&utm_source=onsite&utm_medium=CircleBadge&utm_campaign=LT&utm_content=050511"
+        },
+        {
+            "title": "اشتراک پلاس",
+            "img": "https://dkstatics-public.digikala.com/digikala-bellatrix/74a5ac2c42df40e2b9e9a1f7ef2fbb87a8f13cad_1771936893.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/plus/landing/"
+        }
+    ],
+    "products": [
+        {
+            "title": "کراتین مونوهیدرات BASIX PURE CREATINE 300g",
+            "category": "supplement",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/b490c3a7ed22be1a6f38a76a2f5c8599a4d7fb74_1765212429.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "649000",
+            "discount": 21,
+            "link": "https://www.digikala.com/product/dkp-21054719/%D9%BE%D9%88%D8%AF%D8%B1%20%DA%A9%D8%B1%D8%A7%D8%AA%DB%8C%D9%86%20%D9%85%D9%88%D9%86%D9%88%D9%87%DB%8C%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A8%DB%8C%D8%B3%DB%8C%DA%A9%D8%B3%20-%20300%20%DA%AF%D8%B1%D9%85/?variant_id=76834118&product_id=21054719"
+        },
+        {
+            "title": "ادپرفیوم زنانه جورجیو آرمانی مدل My Way",
+            "category": "perfume",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/461714cf1f52944f5f419f3984bcf901158db857_1770733178.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "1999000",
+            "discount": 63,
+            "link": "https://www.digikala.com/product/dkp-21434251/%D8%A7%D8%AF%D9%88%D9%BE%D8%B1%D9%81%DB%8C%D9%88%D9%85%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D8%B2%D8%AF%D9%81%D9%88%D9%86%20%D9%85%D8%AF%D9%84%20%D9%85%D8%A7%DB%8C%20%D9%88%DB%8C%20%D8%A8%D8%A7%20%D8%B1%D8%A7%DB%8C%D8%AD%D9%87%20%D9%85%D8%B9%D8%AA%D8%AF%D9%84%20%D8%AD%D8%AC%D9%85%20100%20%D9%85%DB%8C%D9%84%DB%8C%20%D9%84%DB%8C%D8%AA%D8%B1/?variant_id=77101745&product_id=21434251"
+        },
+        {
+            "title": "دستگاه تصفیه آب Zeynoud مدل کیسی",
+            "category": "water_purifier",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/cf0841c539a7e54bc111060683c06b7ceb87a26e_1738672505.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "12599000",
+            "discount": 56,
+            "link": "https://www.digikala.com/product/dkp-18226792/%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%A2%D8%A8%20%D8%B2%DB%8C%D9%86%D9%88%D8%AF%20%D9%85%D8%AF%D9%84%20%DA%A9%DB%8C%D8%B3%DB%8C%20CX107-WTDSM%20%D8%A8%D9%87%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%B3%D8%AE%D8%AA%DB%8C%20%D8%B3%D9%86%D8%AC%20TDS-3/?variant_id=63719547&product_id=18226792"
+        },
+        {
+            "title": "تلویزیون 50 اینچ هوشمند سام",
+            "category": "tv",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/89a81cd5229d1ed09fcfbba57873748160fdcc02_1764169027.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "54735000",
+            "discount": 20,
+            "link": "https://www.digikala.com/product/dkp-18484220/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86%2050%20%D8%A7%DB%8C%D9%86%DA%86%20%D8%A7%D9%84%20%D8%A7%DB%8C%20%D8%AF%DB%8C%20%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF%20%D8%B3%D8%A7%D9%85%20%D9%85%D8%AF%D9%84%20UA50CU7750CC/?variant_id=71973219&product_id=18484220"
+        },
+        {
+            "title": "ماشین ظرفشویی دوو مدل DD-F1291",
+            "category": "dishwasher",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/2d5c7f6b04ac3e1b0a00d0e3239e12cd638bb7ec_1770118125.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "77000000",
+            "discount": 34,
+            "link": "https://www.digikala.com/product/dkp-21250222/%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%B8%D8%B1%D9%81%D8%B4%D9%88%DB%8C%DB%8C%2012%20%D9%86%D9%81%D8%B1%D9%87%20%D8%AF%D9%88%D9%88%20%D9%85%D8%AF%D9%84%20DD-F1291/?variant_id=76182560&product_id=21250222"
+        },
+        {
+            "title": "اس‌اس‌دی اکسترنال ADATA مدل SC740",
+            "category": "external_ssd",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/31402f0226a7346a4275d0c3a8d0dcb456fe7e20_1758097105.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "19900000",
+            "discount": 28,
+            "link": "https://www.digikala.com/product/dkp-19485502/%D8%A7%D8%B3%20%D8%A7%D8%B3%20%D8%AF%DB%8C%20%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%86%D8%A7%D9%84%20%D8%A7%DB%8C%20%D8%AF%DB%8C%D8%AA%D8%A7%20%D9%85%D8%AF%D9%84%20SC740%20%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%201000%20%DA%AF%DB%8C%DA%AF%D8%A7%D8%A8%D8%A7%DB%8C%D8%AA%20%D8%B1%D8%A7%D8%A8%D8%B7%20USB%203.2%20Gen2?variant_id=72125022&product_id=19485502"
+        },
+        {
+            "title": "کتاب تاریخ مصور ایران ۱ تا ۱۱۰۱ خورشیدی",
+            "category": "book",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/f6c4cc8776a80a9ca7e53e636e21158e6dc346fc_1776667030.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "8490000",
+            "discount": 56,
+            "link": "https://www.digikala.com/product/dkp-21659691/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D9%85%D8%B5%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%201%20%D8%AA%D8%A7%201101%20%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C%20%D8%A7%D8%AB%D8%B1%20%D8%AC%D9%85%D8%B9%DB%8C%20%D8%A7%D8%B2%20%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%D8%A7%D9%86%20%D9%86%D8%B4%D8%B1%20%D8%B3%D8%A7%DB%8C%D8%A7%D9%86%204%20%D8%AC%D9%84%D8%AF%DB%8C%20-%20%D8%AC%D9%84%D8%AF%205%20%D8%AA%D8%A7%208/?variant_id=78531581&product_id=21659691"
+        },
+        {
+            "title": "مودم روتر بی‌سیم 4G LTE بی‌لینک مدل B50",
+            "category": "router",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/55124ea5595b881ad2d05de43e40dcd0961a3027_1770106354.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "5540000",
+            "discount": 9,
+            "link": "https://www.digikala.com/product/dkp-21138878/%D9%85%D9%88%D8%AF%D9%85%20%D8%B1%D9%88%D8%AA%D8%B1%20%D8%A8%DB%8C%20%D8%B3%DB%8C%D9%85%204G%20LTE%20%D8%A8%DB%8C%D8%B1%D9%84%DB%8C%D9%86%DA%A9%20%D9%85%D8%AF%D9%84%20BL450/?variant_id=82386900&product_id=21138878"
+        },
+        {
+            "title": "سشوار برس‌دار حرفه‌ای هیوسکا مدل H5257",
+            "category": "hair_dryer",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/b56d6e15d57a66c55710a367f176aabcd2df935a_1764615060.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "6749000",
+            "discount": 41,
+            "link": "https://www.digikala.com/product/dkp-21008805/%D8%B3%D8%B4%D9%88%D8%A7%D8%B1%20%D8%A8%D8%B1%D8%B3%E2%80%8C%D8%AF%D8%A7%D8%B1%20%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C%20%D9%87%DB%8C%D8%B3%DA%A9%D8%A7%20%D9%85%D8%AF%D9%84%20H5257%20%D8%A8%D8%A7%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20AC%D8%8C%20%D8%AA%D9%88%D8%A7%D9%86%202200%20%D9%88%D8%A7%D8%AA%D8%8C%20%D8%B3%D9%87%20%D8%AD%D8%A7%D9%84%D8%AA%20%D8%AF%D9%85%D8%A7%D8%8C%20%D8%AF%D9%88%20%D8%B3%D8%B1%D8%B9%D8%AA%D8%8C%20%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%20%DB%8C%D9%88%D9%86%E2%80%8C%D8%B3%D8%A7%D8%B2%D8%8C%20%D8%AE%D8%B4%DA%A9%E2%80%8C%DA%A9%D9%86%20%D8%B3%D8%B1%DB%8C%D8%B9%D8%8C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A8%D8%A7%20%D9%85%D8%AA%D9%85%D8%B1%DA%A9%D8%B2%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%A8%D8%A7%D8%B1%DB%8C%DA%A9%20%D9%88%20%D9%BE%D9%87%D9%86/?variant_id=82179301&product_id=21008805"
+        },
+        {
+            "title": "مانیتور 21.5 اینچ ال‌جی مدل 22U401A-B",
+            "category": "monitor",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/bf7642984b5691d40430830711f54052b6c8a60a_1760805690.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "15900000",
+            "discount": 0,
+            "link": "https://www.digikala.com/product/dkp-20710656/%D9%85%D8%A7%D9%86%DB%8C%D8%AA%D9%88%D8%B1%2021.5%20%D8%A7%DB%8C%D9%86%DA%86%20%D8%A7%D9%84%20%D8%AC%DB%8C%20%D9%85%D8%AF%D9%84%2022U401A-B%20%D8%A8%D8%A7%20%D9%88%D8%B6%D9%88%D8%AD%20Full%20HD%20%D9%BE%D9%86%D9%84%20VA%20%D9%88%20%D9%86%D8%B1%D8%AE%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20100%20%D9%87%D8%B1%D8%AA%D8%B2?variant_id=82564307&product_id=20710656"
+        },
+        {
+            "title": "مودم روتر ADSL2+ تی‌پی‌لینک مدل TD-...",
+            "category": "router",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/dbfbda50424c79636818882f5f32dd95a1181b9b_1713445504.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "2399000",
+            "discount": 26,
+            "link": "https://www.digikala.com/product/dkp-15148662/%D9%85%D9%88%D8%AF%D9%85%20%D8%B1%D9%88%D8%AA%D8%B1%20ADSL2+%20%D8%AA%DB%8C%20%D9%BE%DB%8C-%D9%84%DB%8C%D9%86%DA%A9%20%D9%85%D8%AF%D9%84%20TD-W8961N%20V5.0?variant_id=80773293&product_id=15148662"
+        },
+        {
+            "title": "مودم همراه 4G LTE نتربیت مدل WR-945X",
+            "category": "portable_modem",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/004b540d8250e5d9be90b239386709606ba0426b_1786388231.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "3799000",
+            "discount": 28,
+            "link": "https://www.digikala.com/product/dkp-19485044/%D9%85%D9%88%D8%AF%D9%85%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%204G%20LTE%20%D9%86%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA%20%D9%85%D8%AF%D9%84%20NWR-945X%20%D8%A8%D8%A7%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%203000%20%D9%85%DB%8C%D9%84%DB%8C%E2%80%8C%D8%A2%D9%85%D9%BE%D8%B1%20%D8%B3%D8%A7%D8%B9%D8%AA%D8%8C%20%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B2%20Wi-Fi%206%D8%8C%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%AA%D8%A7%20150%20%D9%85%DA%AF%D8%A7%D8%A8%DB%8C%D8%AA%20%D8%A8%D8%B1%20%D8%AB%D8%A7%D9%86%DB%8C%D9%87%D8%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%DB%8C%D8%B4%20%D8%A7%D8%B2%2010%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%20%D9%88%20%D9%81%D8%A7%DB%8C%D8%B1%D9%88%D8%A7%D9%84%20NAT/?variant_id=73238004&product_id=19485044"
+        },
+        {
+            "title": "صندلی خودرو کودک دلیجان مدل هایپر",
+            "category": "child_car_seat",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/1c958ca3ce1d4604dcbf4ba7316acf051676339b_1630040656.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "8620000",
+            "discount": 22,
+            "link": "https://www.digikala.com/product/dkp-6228623/%D8%B5%D9%86%D8%AF%D9%84%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%DA%A9%D9%88%D8%AF%DA%A9%20%D8%AF%D9%84%DB%8C%D8%AC%D8%A7%D9%86%20%D9%85%D8%AF%D9%84%20%D9%87%D8%A7%D8%A8%D8%B1/?variant_id=59695574&product_id=6228623"
+        },
+        {
+            "title": "موتورسیکلت کیپ‌موتور مدل NVXalpha-170CC",
+            "category": "motorcycle",
+            "img": "https://dkstatics-public.digikala.com/digikala-products/2c2648ba80f042f9f59a59efae6e6aeee296c816_1780477016.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80/format,webp",
+            "price": "37590000",
+            "discount": 13,
+            "link": "https://www.digikala.com/product/dkp-21882527/%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B3%DB%8C%DA%A9%D9%84%D8%AA%20%DA%A9%D8%A8%DB%8C%D8%B1%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D9%85%D8%AF%D9%84%20NVXalpha-170CC%20%D8%B3%D8%A7%D9%84%20%D8%B3%D8%A7%D8%AE%D8%AA%201405%20/?variant_id=79682290&product_id=21882527"
+        }
+    ],
+    "categories": [
+        {
+            "title": "موبایل",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/09a98a13c782e12a245930b4515d243b17734a33_1740821989.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/mobile/"
+        },
+        {
+            "title": "لپ تاپ",
+            "img": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/laptop/"
+        },
+        {
+            "title": "لوازم خانگی برقی",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/d825f64f509cd5067a9022528c465e8ca705f60d_1740821988.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/category-home-appliance/"
+        },
+        {
+            "title": "خودرو و موتورسیکلت",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/03552aa1293fec9f43477814ca62afdacdac18e3_1740821990.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/vehicles-spare-parts/"
+        },
+        {
+            "title": "طلا و نقره",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740821985.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/gold/"
+        },
+        {
+            "title": "مد و پوشاک",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/b3d4eaefebe67ab8d849296ea2e7e113cde8094c_1740821988.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/landing/apparel/"
+        },
+        {
+            "title": "آرایشی بهداشتی",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/b196bbdea97f57bfac02dc1666d7401b16ee4bcb_1740821984.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/personal-appliance/"
+        },
+        {
+            "title": "خانه و آشپزخانه",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/8a042388b93c5116604f35092a1fb35f8f0756be_1740821985.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/home-and-kitchen/"
+        },
+        {
+            "title": "کالای دیجیتال",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/151ec29bae111afd3b6a0e71cec5c4c26f1c3014_1740821986.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/electronic-devices/"
+        },
+        {
+            "title": "محصولات بومی و محلی",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/9a4dfac524f8a865f9f69e38d5434fa69fe63e3b_1740821990.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/rural-products/"
+        },
+        {
+            "title": "اسباب بازی، کودک و نوزاد",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/6f5284dccdb280616bbfe58533ecc483de4639af_1740821987.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/mother-and-child/"
+        },
+        {
+            "title": "کالای خوراکی و اساسی",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740821986.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/food-beverage/"
+        },
+        {
+            "title": "کارت هدیه و گیفت کارت",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/f35b3eba7de8bf2432fff4f53abfa8cbaa6e71d6_1740821985.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/dk-ds-gift-card/"
+        },
+        {
+            "title": "ورزش و سفر",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/4d4582205d0d5045c2bd94c5e910bbb49ae4fd4e_1740821990.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/sport-entertainment/"
+        },
+        {
+            "title": "کتاب، لوازم تحریر و هنر",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/0cdf9c404e509371c3177a334be948a7e500419c_1740821987.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/book-and-media/"
+        },
+        {
+            "title": "تجهیزات پزشکی و سلامت",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/deb3f514c62761797eb6a49e1559268b8bce3219_1740821984.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/search/category-health-care/"
+        },
+        {
+            "title": "ابزار آلات و تجهیزات",
+            "img": "https://dkstatics-public.digikala.com/digikala-admin-landing/fb6303218362cd2c48b40fef5da89ad33a5c04d7_1740821984.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/vehicles/"
+        },
+        {
+            "title": "پت شاپ",
+            "img": "https://dkstatics-public.digikala.com/digikala-mega-menu/6f236efd9caae4d1c3177f37c483aa44c3092b6a_1753614680.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/main/pet/"
+        }
+    ],
+    "popularBrands": [
+        [
+            {
+                "title": "فولیکا",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/100012444.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/fulica/"
+            },
+            {
+                "title": "ویتالیار",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/efb14accdad9be1b2176aa0317c8bbac43733831_1609325767.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/vitalayer/"
+            },
+            {
+                "title": "کاله",
+                "img": "https://www.digikala.com/brand/kalleh/",
+                "link": "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "ساعی",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/58ba4ffb03e2843e97778403fbe5b9d99c2f4cdb_1747138682.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/saei/"
+            },
+            {
+                "title": "اکتیو",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/87dcb454f4d8df28bd2f8fd902f0f27b5fb1fac4_1666761801.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/active/"
+            },
+            {
+                "title": "سامسونگ",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/samsung/"
+            },
+            {
+                "title": "مای",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/my/"
+            },
+            {
+                "title": "شیائومی",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image//format,webp",
+                "link": "https://www.digikala.com/brand/xiaomi/"
+            },
+            {
+                "title": "لافارر",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/lafarrerr/"
+            },
+            {
+                "title": "یوروویتال",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/e44886020b773202d6d431e2fef2f3bd8bd3bc7f_1737817444.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/eurhi-vital/"
+            },
+            {
+                "title": "هواوی",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/huawei/"
+            },
+            {
+                "title": "نتربیت",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/070d1eb61036eaa9d9981aeadd4a0f05cf93efe6_1627122768.png?x-oss-process=image//format,webp",
+                "link": "https://www.digikala.com/brand/neterbit/"
+            },
+            {
+                "title": "مایا ماهک",
+                "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a4ff497f24b1315b93f6ca9f040069c367d83aac_1781790676.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/maya-maahak/"
+            },
+            {
+                "title": "ایکس ویژن",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/d23e8875d5f7a9735e433f1fd86a1513902efc8b_1604470597.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/x-vision/"
+            },
+            {
+                "title": "مودیپود",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/3e0100126c0bccc9cbb02aa6f869eac6c1240027_1607154301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80/format,webp",
+                "link": "https://www.digikala.com/brand/modopod/"
+            },
+            {
+                "title": "چینی زرین ایران",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/5a10ae95eb42fc96906c8062563b28062668d418_1722238640.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/zarin-iran/"
+            },
+            {
+                "title": "ای دیتا",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image//format,webp",
+                "link": "https://www.digikala.com/brand/adata/"
+            },
+            {
+                "title": "چرم مشهد",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/9f5727fd7c13dc4b10c879a1865d77bc1fb333ce_1705308969.jpg?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/mashad-leather/"
+            },
+            {
+                "title": "پارسيل",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand-landing/persil/"
+            },
+            {
+                "title": "پریل",
+                "img": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/format,webp",
+                "link": "https://www.digikala.com/brand/pril/"
+            }
+        ]
     ]
 }
