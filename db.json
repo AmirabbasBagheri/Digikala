@@ -1034,107 +1034,105 @@
         }
     ],
     "popularBrands": [
-        [
-            {
-                "title": "فولیکا",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/100012444.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/fulica/"
-            },
-            {
-                "title": "ویتالیار",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/efb14accdad9be1b2176aa0317c8bbac43733831_1609325767.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/vitalayer/"
-            },
-            {
-                "title": "کاله",
-                "img": "https://www.digikala.com/brand/kalleh/",
-                "link": "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/format,webp"
-            },
-            {
-                "title": "ساعی",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/58ba4ffb03e2843e97778403fbe5b9d99c2f4cdb_1747138682.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/saei/"
-            },
-            {
-                "title": "اکتیو",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/87dcb454f4d8df28bd2f8fd902f0f27b5fb1fac4_1666761801.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/active/"
-            },
-            {
-                "title": "سامسونگ",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/samsung/"
-            },
-            {
-                "title": "مای",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/my/"
-            },
-            {
-                "title": "شیائومی",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image//format,webp",
-                "link": "https://www.digikala.com/brand/xiaomi/"
-            },
-            {
-                "title": "لافارر",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/lafarrerr/"
-            },
-            {
-                "title": "یوروویتال",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/e44886020b773202d6d431e2fef2f3bd8bd3bc7f_1737817444.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/eurhi-vital/"
-            },
-            {
-                "title": "هواوی",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/huawei/"
-            },
-            {
-                "title": "نتربیت",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/070d1eb61036eaa9d9981aeadd4a0f05cf93efe6_1627122768.png?x-oss-process=image//format,webp",
-                "link": "https://www.digikala.com/brand/neterbit/"
-            },
-            {
-                "title": "مایا ماهک",
-                "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a4ff497f24b1315b93f6ca9f040069c367d83aac_1781790676.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/maya-maahak/"
-            },
-            {
-                "title": "ایکس ویژن",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/d23e8875d5f7a9735e433f1fd86a1513902efc8b_1604470597.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/x-vision/"
-            },
-            {
-                "title": "مودیپود",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/3e0100126c0bccc9cbb02aa6f869eac6c1240027_1607154301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80/format,webp",
-                "link": "https://www.digikala.com/brand/modopod/"
-            },
-            {
-                "title": "چینی زرین ایران",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/5a10ae95eb42fc96906c8062563b28062668d418_1722238640.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/zarin-iran/"
-            },
-            {
-                "title": "ای دیتا",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image//format,webp",
-                "link": "https://www.digikala.com/brand/adata/"
-            },
-            {
-                "title": "چرم مشهد",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/9f5727fd7c13dc4b10c879a1865d77bc1fb333ce_1705308969.jpg?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/mashad-leather/"
-            },
-            {
-                "title": "پارسيل",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand-landing/persil/"
-            },
-            {
-                "title": "پریل",
-                "img": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/format,webp",
-                "link": "https://www.digikala.com/brand/pril/"
-            }
-        ]
+        {
+            "title": "فولیکا",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/100012444.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/fulica/"
+        },
+        {
+            "title": "ویتالیار",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/efb14accdad9be1b2176aa0317c8bbac43733831_1609325767.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/vitalayer/"
+        },
+        {
+            "title": "کاله",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/format,webp,",
+            "link": "https://www.digikala.com/brand/kalleh/"
+        },
+        {
+            "title": "ساعی",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/58ba4ffb03e2843e97778403fbe5b9d99c2f4cdb_1747138682.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/saei/"
+        },
+        {
+            "title": "اکتیو",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/87dcb454f4d8df28bd2f8fd902f0f27b5fb1fac4_1666761801.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/active/"
+        },
+        {
+            "title": "سامسونگ",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/samsung/"
+        },
+        {
+            "title": "مای",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/my/"
+        },
+        {
+            "title": "شیائومی",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image//format,webp",
+            "link": "https://www.digikala.com/brand/xiaomi/"
+        },
+        {
+            "title": "لافارر",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/lafarrerr/"
+        },
+        {
+            "title": "یوروویتال",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/e44886020b773202d6d431e2fef2f3bd8bd3bc7f_1737817444.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/eurhi-vital/"
+        },
+        {
+            "title": "هواوی",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/huawei/"
+        },
+        {
+            "title": "نتربیت",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/070d1eb61036eaa9d9981aeadd4a0f05cf93efe6_1627122768.png?x-oss-process=image//format,webp",
+            "link": "https://www.digikala.com/brand/neterbit/"
+        },
+        {
+            "title": "مایا ماهک",
+            "img": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a4ff497f24b1315b93f6ca9f040069c367d83aac_1781790676.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/maya-maahak/"
+        },
+        {
+            "title": "ایکس ویژن",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/d23e8875d5f7a9735e433f1fd86a1513902efc8b_1604470597.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/x-vision/"
+        },
+        {
+            "title": "مودیپود",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/3e0100126c0bccc9cbb02aa6f869eac6c1240027_1607154301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80/format,webp",
+            "link": "https://www.digikala.com/brand/modopod/"
+        },
+        {
+            "title": "چینی زرین ایران",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/5a10ae95eb42fc96906c8062563b28062668d418_1722238640.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/zarin-iran/"
+        },
+        {
+            "title": "ای دیتا",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image//format,webp",
+            "link": "https://www.digikala.com/brand/adata/"
+        },
+        {
+            "title": "چرم مشهد",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/9f5727fd7c13dc4b10c879a1865d77bc1fb333ce_1705308969.jpg?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/mashad-leather/"
+        },
+        {
+            "title": "پارسيل",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand-landing/persil/"
+        },
+        {
+            "title": "پریل",
+            "img": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/format,webp",
+            "link": "https://www.digikala.com/brand/pril/"
+        }
     ]
 }
